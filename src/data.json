@@ -1,0 +1,90 @@
+{
+    "navigation": {
+        "items": [{
+                "link": "About"
+            },
+            {
+                "link": "Skill"
+            }
+        ]
+    },
+    "title": "Hello,I'm norouzi!",
+    "subtitle": "Full stack Dev | Open-source Enthusiast",
+    "links": {
+        "github": "https://github.com/mjnorouzi",
+        "stackoverflow": "https://stackoverflow.com/story/mj.norouzi",
+        "linkedin": "https://www.linkedin.com/in/mohammadjavad-norouzi-b88554176/",
+        "twitter": "https://twitter.com/codebaz"
+    },
+    "sections": [{
+            "title": "About",
+            "items": [{
+                "type": "p",
+                "content": "من دانشجوی علوم کامپیوتر هستم که به خاطر شرایط کاری وعلاقه به سمت برنامه نویسی تحت وب آمدم و در تلاش برای یاد گرفتن بهترین ابزار برای این بخش هستم ."
+            }]
+        },
+        {
+            "title": "Skills",
+            "items": [{
+                    "type": "card",
+                    "content": {
+                        "image": "./img/react-logo.svg",
+                        "title": "react"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "./img/js.svg",
+                        "title": "js"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "./img/HTML5_Logo_512.png",
+                        "title": "Html"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "./img/css-logo.svg",
+                        "title": "CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "./img/Xuq8DypK_400x400.jpg",
+                        "title": "Gatsby"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "./img/logo-typescript.svg",
+                        "title": "Typescript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "./img/nodejs-logo.svg",
+                        "title": "Nodejs"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons": {
+        "down": {
+            "white": "./img/down.png",
+            "black": "./img/downB.png"
+        },
+        "theme": {
+            "white": "./img/theme(1).png",
+            "black": "./img/theme.png"
+        }
+    }
+}
